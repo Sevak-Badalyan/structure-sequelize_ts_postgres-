@@ -1,0 +1,1 @@
+# structure-sequelize_ts_postgres-
